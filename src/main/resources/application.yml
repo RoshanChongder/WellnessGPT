@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: wellnessgpt-ai
+  profiles:
+    active: prod
